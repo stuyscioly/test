@@ -1,0 +1,13 @@
+# Site settings
+title: Stuyvesant Science Olympiad
+email: stuyenceolympiad@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Stuyvesant Science Olympiad team is a successful team, spanning
+  years of experience and success.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://stuyscioly.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$header-bg-color: #313131;
+$header-height: 60px;
+
+$footer-height: 50px;
+
+$color-red: #D92121;
+$color-gray: #CCC;
+$color-black: #000;
+
+$content-width: 60%;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "syntax-highlighting"
+;
